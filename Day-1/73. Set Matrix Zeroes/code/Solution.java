@@ -1,6 +1,11 @@
 
 class Solution {
 
+    /**
+     * Expected Solution
+     * Time Complexity: O(m*n)
+     * Space Complexity: O(1)
+     */
     void setZeroes(int[][] matrix) {
         int r = matrix.length;
         int c = matrix[0].length;

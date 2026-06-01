@@ -1,3 +1,15 @@
+
+# Prerequisites
+
+* variables 
+* nested loops
+* arrays
+* sets
+
+# Observation Based Problem...
+
+* Challenge your brain to solve this problem without using any extra arrays or sets.
+
 # Table of Content
 
 * [Approach 1] Using Marker Matrix - O(m*n) Time and O(m*n) Space
