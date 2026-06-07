@@ -1,1 +1,2 @@
-- [X] Two Sum
+- [X] Two Sum.
+- [X] 4 Sum.
