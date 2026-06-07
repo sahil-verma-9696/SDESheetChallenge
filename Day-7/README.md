@@ -1,2 +1,3 @@
 - [X] Two Sum.
 - [X] 4 Sum.
+- [X] Longest Consecutive Sequence in an Array
