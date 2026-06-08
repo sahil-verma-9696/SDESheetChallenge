@@ -1,3 +1,3 @@
 - [X] [Largest Subarray with K sum](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1)
-- [ ] Count subarrays with given xor K
+- [X] [Count subarrays with given xor K](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1)
 - [ ] Longest Substring Without Repeating Characters
