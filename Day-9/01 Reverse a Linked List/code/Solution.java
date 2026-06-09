@@ -14,9 +14,38 @@ class ListNode {
     }
 }
 
-public class Solution {
+class Solution {
 
     public ListNode reverseList(ListNode head) {
+
+        // Case 
+        ListNode ans = null;
+
+        ans = recursion(head);
+
+        // ans = InPlace(head);
+        return ans;
+    }
+
+    public ListNode recursion(ListNode head) {
+
+        if (head == null) {
+            return null;
+        }
+
+        if (head.next == null) {
+            return head;
+        }
+
+        ListNode h = recursion(head.next);
+
+        head.next.next = head;
+        head.next = null;
+
+        return h;
+    }
+
+    public ListNode InPlace(ListNode head) {
 
         // Case 
         if (head == null) {
@@ -42,4 +71,5 @@ public class Solution {
 
         return head;
     }
+
 }
