@@ -1,3 +1,3 @@
 - [X] Reverse a Linked List.
-- [ ] Find Middle of Linked List
+- [X] Find Middle of Linked List
 - [ ] Merge two Sorted Lists
