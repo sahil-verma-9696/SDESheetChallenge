@@ -1,3 +1,3 @@
 - [X] Remove Nth node from the back of the LL
 - [X] Add two numbers as LinkedList
-- [ ] Delete Node in a Linked List O(1)
+- [X] Delete Node in a Linked List O(1)
