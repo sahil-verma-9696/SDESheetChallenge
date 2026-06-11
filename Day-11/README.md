@@ -1,0 +1,3 @@
+- [X] Find the intersection point of Y LL
+- [ ] Detect a loop in LL
+- [ ] Reverse LL in group of given size K
