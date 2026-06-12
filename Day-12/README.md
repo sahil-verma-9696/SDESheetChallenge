@@ -1,3 +1,3 @@
 - [X] Check if LL is palindrome or not
-- [ ] Find the starting point in LL
+- [X] Find the starting point in LL
 - [ ] Flattening of LL
