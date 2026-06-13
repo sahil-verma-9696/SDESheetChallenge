@@ -1,2 +1,6 @@
 - [X] Rotate a linked list.
 - [X] Copy list with `random` and `next` pointer.
+
+-- Array --
+
+- [X] 3sum
