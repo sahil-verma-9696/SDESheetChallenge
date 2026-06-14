@@ -1,1 +1,3 @@
 - [X] [n meeting in one room](https://www.geeksforgeeks.org/problems/activity-selection-1587115620/1)
+- [X] [Minimum number of platforms required for a railway](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1)
+- 
