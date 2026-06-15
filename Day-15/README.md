@@ -1,0 +1,4 @@
+- [X] Trapping Rainwater
+- [ ] Remove duplicates from sorted array
+- [ ] Maximum Consecutive Ones
+- [ ] Fractional Knapsack
