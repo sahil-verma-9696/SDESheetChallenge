@@ -1,4 +1,4 @@
 - [X] Trapping Rainwater
 - [X] Remove duplicates from sorted array
 - [X] Maximum Consecutive Ones
-- [ ] Fractional Knapsack
+- [X] [Fractional Knapsack](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1)
