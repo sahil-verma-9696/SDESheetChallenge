@@ -1,1 +1,2 @@
 - [X] Minimum coins
+- [X] Assign Cookies
