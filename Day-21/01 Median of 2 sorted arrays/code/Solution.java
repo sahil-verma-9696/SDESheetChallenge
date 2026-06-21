@@ -5,6 +5,9 @@ class Solution {
     ----------------
 
     Binary Search
+
+    time : O(log(min(m, n)))
+    space : O(1)
      */
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
 
