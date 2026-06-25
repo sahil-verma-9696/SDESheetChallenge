@@ -1,5 +1,5 @@
 # Questions
 
 - [X] Balanced Paranthesis
-- [ ] Next Greater Element
+- [X] Next Greater Element
 - [ ] Sort a Stack
