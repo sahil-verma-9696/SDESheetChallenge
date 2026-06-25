@@ -1,3 +1,5 @@
+import java.util.*;
+
 class Solution {
     public boolean isValid(String str) {
         int n = str.length();
@@ -7,7 +9,7 @@ class Solution {
         for(int i=0; i<n; i++){
             char ch = str.charAt(i);
 
-            if(!startsWithOpenings(s)){
+            if(!startsWithOpenings(stk, ch)){
                 return false;
             }else if(isOpening(ch)){
                 stk.push(ch);
@@ -18,12 +20,12 @@ class Solution {
             }
         }
 
+
         return stk.size() == 0;
     }
 
-    boolean startsWithOpenings(String s){
-        char ch = s.chartAt(0)
-        return  ch == '{' || ch == '(' || ch == '[';
+    boolean startsWithOpenings(Stack<Character> stk , char ch){
+       return stk.isEmpty() && isOpening(ch) || !stk.isEmpty();
     }
 
     boolean isOpening(char ch){
