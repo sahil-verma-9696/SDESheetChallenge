@@ -1,5 +1,5 @@
 # Questions
 
 - [X] next smaller element
-- [ ] LRU cache
+- [X] [LRU cache](https://www.geeksforgeeks.org/problems/lru-cache/1)
 - [ ] LFU cache
