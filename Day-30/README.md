@@ -2,4 +2,4 @@
 
 - [X] Implement ATOI
 - [X] Longest common prefix
-- [ ] Rabin Karp Algorithm
+- [X] [Rabin Karp Algorithm](https://leetcode.com/problems/repeated-string-match/)
