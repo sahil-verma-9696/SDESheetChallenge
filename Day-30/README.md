@@ -1,5 +1,5 @@
 # Questions
 
 - [X] Implement ATOI
-- [ ] Longest common prefix
+- [X] Longest common prefix
 - [ ] Rabin Karp Algorithm
