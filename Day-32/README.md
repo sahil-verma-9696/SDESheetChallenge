@@ -1,5 +1,5 @@
 # Questions
 
 - [X] Valid anagram
-- [ ] count and say
+- [X] count and say
 - [ ] compare version numbers
