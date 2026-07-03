@@ -21,3 +21,5 @@ class Solution {
         if (root.right != null)
             traverse(root.right, lst);
     }
+
+}
