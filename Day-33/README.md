@@ -2,5 +2,5 @@
 
 - [X] Inorder : for iteration use STACK or MORRIS
 - [X] Preorder
-- [ ] Postorder
+- [X] Postorder
 - [ ] Morris Traversal : Inorder
