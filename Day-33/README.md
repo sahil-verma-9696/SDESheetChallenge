@@ -1,6 +1,6 @@
 # Questions
 
 - [X] Inorder : for iteration use STACK or MORRIS
-- [ ] Preorder
+- [X] Preorder
 - [ ] Postorder
 - [ ] Morris Traversal : Inorder
